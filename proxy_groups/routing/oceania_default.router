@@ -1,6 +1,11 @@
 # Oceania default router
 # P0 Australia IEPL Lite
 - AU-IEPL-AIR
+# P0.5 IEPL Premium
+- SG-IEPL-PRE
+- HK-IEPL-PRE
+- TW-IEPL-PRE
+- JP-IEPL-PRE
 # Asia IEPL
 - SG-IEPL-STD
 - SG-IEPL-AIR

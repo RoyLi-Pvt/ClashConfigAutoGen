@@ -2,8 +2,14 @@
 # P0 North American IEPL Lite
 - US-IEPL-AIR
 - CA-IEPL-AIR
+# P0.5 Japan Premium
+- JP-IEPL-PRE
 # P1 Japan IEPL
 - JP-IEPL-AIR
+# P1.5 IEPL Premium
+- SG-IEPL-PRE
+- HK-IEPL-PRE
+- TW-IEPL-PRE
 # P2 Asia IEPL Stander
 - HK-IEPL-STD
 - TW-IEPL-STD
